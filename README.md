@@ -3,8 +3,8 @@
 ### 📌 A bit about me...
 I'm a **Software Engineer** who loves building things that live on the internet. I'm passionate about open-source, clean code, DOTA2,and Latte ☕.
 
-- 🔭 I’m currently working on **some community projects.**
-- 🌱 I’m currently learning **[I forgot it](https://waitlist.iforgotit.pro/).**
+- 🔭 I’m currently working on **[I forgot it](https://waitlist.iforgotit.pro/).**
+- 🌱 I’m currently learning **Flutter**
 - 💬 I write some content on **[CallMeDevbyPeter](https://www.facebook.com/callmedevbypeter)**
 - 📫 How to reach me: **minmg.peter@protonmail.com**
 - ⚡ Fun fact: **Linux is good, except Ubuntu 22.04 later version.**
